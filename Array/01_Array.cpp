@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 
+// Creating an array
 class myArray
 {
 public:
